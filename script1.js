@@ -209,15 +209,6 @@ const quizDB = [
     },
     {
         heading: "Science",
-        question : "What is coliform?",
-        a: "Group of bacteria",
-        b: "Group of viruses",
-        c: "Group of microorganisms",
-        d: "Group of diseases",
-        ans: "ans1"
-    },
-    {
-        heading: "Science",
         question : "Temporary finger-like extensions on amoeba are called",
         a: "Cell membrane",
         b: "Cell wall",

@@ -118,218 +118,218 @@ const streamSelector = [
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "a) Discussing better-governing methods",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "commerce",
-        ans : "ans3"
+        ans : "ans1"
     },    
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "a) Discussing better-governing methods",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "commerce",
-        ans : "ans3"
+        ans : "ans1"
     },  
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "b) Giving students advice about their education",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "humanities",
-        ans : "ans3"
+        ans : "ans1"
     },    
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "c) Writing plays for a small theater or giving dance lessons",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "humanities",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "d) Typing business letters",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "commerce",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "e) Deciding on investments in share markets",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "commerce",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "f) To work on computers and write programs and logical codes",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "PCM",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "g) Designing telephone equipment",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "PCM",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "h) Provide care and medical help to patients and animals",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "PCB",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "i) Protecting wildlife from illegal huntinga) Discussing better-governing methods",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "humanities",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "j) Giving medicine with a needle and cleaning a patient's teeth",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "PCB",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "k) Taking care of the newborn in the intensive care unit",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "PCB",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "l) Analysis of business model to start a business",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "commerce",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "m) Culture a tissue in a laboratory and write a research report on it",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "PCB",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "n) Management of cash in the bank account",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "commerce",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "o) Financial Advisor for an organization",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "commerce",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "p) Taking survey to improve sanitation in an area",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "humanities",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "q) Talking to an individual who is depressed",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "humanities",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "r) Formulate a mathematical model or other methods of analysis to design a device",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "PCM",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "s) Conduct laboratory experiments to prove a theorem or theory",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "PCM",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "t) Read dials and meters to determine amperage, voltage, electrical output, and input",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "PCM",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "u) Meeting with executives, clients, and representatives",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "commerce",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "v) Taking decisions related to tax and money",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "commerce",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
         question : "w) Analyze crop yield produced from different soil and fertilizers",
-        a: "Never",
+        a: "Yes, Will love to",
         b: "Maybe",
-        c: "Yes, Will love to",
+        c: "Never",
         id : "PCB",
-        ans : "ans3"
+        ans : "ans1"
     },
     {
         heading: "Work Situation: If ever given an option would you choose given work to make a living-",
@@ -338,7 +338,7 @@ const streamSelector = [
         b: "Maybe",
         c: "Yes, Will love to",
         id : "PCB",
-        ans : "ans3"
+        ans : "ans1"
     }
 ];
 
